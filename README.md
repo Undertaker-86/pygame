@@ -22,6 +22,13 @@ When all 3 lifes are lost, the game ends and your score will be displayed.
 
 Run to the otherworld!!!.
 
+#### Files:
+Most of the files are contained in the game folder.  
+The project.py file is the main bulk of the program, containing the the class of Player and Object, as well as the game logic.  
+The file test_project.py is the test file project.  
+Then the rest of the file is resources such as sprites, audio and font.  
+For this program to run, you need to install pygame library in your system.  
+
 
 
 
