@@ -18,3 +18,10 @@ As a general rule of thumb, to avoid snails, stay on the ground or double jump t
 When all 3 lifes are lost, the game ends and your score will be displayed.\\
 
 Run to the otherworld!!!.
+\\\\
+
+#### Credits:
+Most of the graphics and music can be found here:/
+https://opengameart.org/content/5-chiptunes-action\
+https://opengameart.org/content/platformer-art-pixel-edition\
+Additionally, huge thanks to Clear Code who provided Clear Guide for pygame.
