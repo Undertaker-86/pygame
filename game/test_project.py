@@ -12,6 +12,10 @@ def test_display_score():
     start_time = 0
     assert display_score() == 0
 
+def test_collision_sprite():
+    #Default state should return True
+    assert collision_sprite() == True
+
 def test_toggle_music():
     assert toggle_music(True) == False
     assert toggle_music(False) == True
