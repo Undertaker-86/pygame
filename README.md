@@ -15,10 +15,10 @@ Also similar to Chrome dinosaur, there are two enemies in the game: snail and fl
 You have 3 lifes, everytime you collide with the enemy you lose one life.\
 When collision happens, every enemy will be deleted (this is to ensure no immediate loss of consecutive collisions).\
 As a general rule of thumb, to avoid snails, stay on the ground or double jump to avoid fly.\
-When all 3 lifes are lost, the game ends and your score will be displayed.\ \
+When all 3 lifes are lost, the game ends and your score will be displayed.\  \
 
 Run to the otherworld!!!.
-\ \
+\  \
 
 #### Credits:
 Most of the graphics and music can be found here:/
