@@ -27,7 +27,7 @@ Run to the otherworld!!!.
 
 
 #### Credits:
-Most of the graphics and music can be found here:/
+Most of the graphics and music can be found here:  
 https://opengameart.org/content/5-chiptunes-action  
 https://opengameart.org/content/platformer-art-pixel-edition  
 Additionally, huge thanks to Clear Code who provided Clear Guide for pygame.
