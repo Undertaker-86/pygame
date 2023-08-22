@@ -145,14 +145,12 @@ def main():
 
 			if game_active:
 				if event.type == obstacle_timer:
-					# new_obstacle = Obstacle(choice(['fly','snail','snail','snail']))
-					# obstacle_group.add(new_obstacle)
-					obstacle_group.add(Obstacle(choice(['fly','snail','snail','snail'])))
+					obstacle_group.add(Obstacle(choice(['fly','snail'])))
 					elapsed = pygame.time.get_ticks() - spawn_time				
 					spawn_rate = max(5000 - speed_add, 500)
 					
 					if elapsed >= spawn_rate:
-						obstacle_group.add(Obstacle(choice(['fly','snail','snail','snail'])))
+						obstacle_group.add(Obstacle(choice(['fly','snail'])))
 			else:
 				if event.type == pygame.KEYDOWN and event.key == pygame.K_SPACE:
 					game_active = True
